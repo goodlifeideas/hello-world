@@ -1,2 +1,2 @@
 # hello-world
-My First Repository
+My First Repository. This is first commit in a repository.
